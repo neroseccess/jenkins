@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jfrog.it-academy.by/public/jenkins-ci:3
+          tags: jfrog.it-academy.by/public/jenkins-ci:vlad_33
